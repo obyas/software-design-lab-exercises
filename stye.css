@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+.max-width{
+	max-width: 1300px;
+	padding: 0 80px;
+	margin: auto;
+}
+
+.a{
+	background: url("7fe774bbacce09f00cb5b2e3cbc48db3.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow: ;
+	height: 100%;
+	width: 100%;
+}
